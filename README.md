@@ -1,6 +1,5 @@
 # LangGraph Agent
 
-![LangGraph Logo](https://github.com/langchain-ai/langgraph/raw/main/docs/static/img/langgraph.png)  
 
 一个使用 **LangGraph** 构建的 AI Agent 实验与实战仓库。
 
